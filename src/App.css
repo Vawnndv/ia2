@@ -36,6 +36,12 @@
   height: 300px;
   padding: 0px 2px;
   border-radius: 5%;
+  border: 3px solid #ffffff00;
+}
+
+#gallery img:hover {
+  border: 3px solid #5a5a5a8c; 
+  /* scale: 0.99; */
 }
 
 .loading {
